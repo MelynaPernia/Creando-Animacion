@@ -1,0 +1,19 @@
+/*----------------Seteando----------------*/
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/*----------------Fin-seteando----------------*/
+
+/*----------------Seteando----------------*/
+
+td {
+  border: .5vh solid black;
+  height: 10vh;
+  width: 10vh;
+}
+
+td:hover {
+  background-color: #a0d9bb;
+}
